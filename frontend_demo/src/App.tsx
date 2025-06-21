@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./App.css";
 import { RetellWebClient } from "retell-client-js-sdk";
 
-const agentId = "ENTER_YOUR_AGENT_ID";
+const agentId = "agent_e137bdf68f6bc9474f8fd37c1e";
 
 interface RegisterCallResponse {
   access_token: string;
